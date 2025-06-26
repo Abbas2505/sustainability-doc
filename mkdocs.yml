@@ -7,12 +7,12 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
-  - User Guide: UserGuide.md
-  - Dashboard: dashboard.md
-  - Savings Calculator: savings_calculator.md
-  - Application: sustainability_application.md
-  - Settings: Settings.md
-  - Reports: Reports.md
-  - FAQ: faq.md
+  - home: index.md
+  - user Guide: UserGuide.md
+  - dashboard: dashboard.md
+  - savings Calculator: savings_calculator.md
+  - application: sustainability_application.md
+  - settings: Settings.md
+  - reports: Reports.md
+  - faq: faq.md
 
